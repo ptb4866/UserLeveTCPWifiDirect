@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserLevelTCPP2PFileTransfer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_wi_fi_server_broadcast_receiver">WiFiServerBroadcastReceiver
+    </string>
+    <string name="search_peers">Search For Peers</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="send_text">SEND</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="device_label">Device Name</string>
+    <string name="disconnect_button">DISCONNECT</string>
+</resources>
